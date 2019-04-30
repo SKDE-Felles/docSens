@@ -2,5 +2,5 @@
 
 # Lokal lagring og bruk av sensitive data
 
-Siste utgave av finnes [her](https://areedv.github.io/docSens/)
+Siste utgave av finnes [her](https://skde-felles.github.io/docSens/)
 
